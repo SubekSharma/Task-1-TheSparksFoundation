@@ -1,6 +1,6 @@
-Project:-Decision Tree
+Project:- Decision Tree Classifier
 
-Create the Decision Tree classifier and visualize it graphically.
+Task:- Create the Decision Tree classifier and visualize it graphically.
 
-The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+Result:- If we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
